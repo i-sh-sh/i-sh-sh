@@ -5,4 +5,4 @@
 - **Signature:** ליסטינג (ADDR / WORD / SRC) שמתקמפל לשם.
 - **Motion:** פעם אחת בטעינה, מסודר כמו הרצה. שורות נכנסות, השם עולה מתוך מסכה, קו קובלט מצטייר. reduced-motion = מצב סופי סטטי.
 - **Principles:** כל מידע חשוב גם כטקסט או alt; בהיר וכהה דרך `<picture>`; בלי שירותים חיצוניים; כל הנכסים נוצרים מ־`scripts/build_assets.py`.
-- **Accepted decisions:** — (0001 proposed)
+- **Accepted decisions:** 0001 — assembler-listing profile

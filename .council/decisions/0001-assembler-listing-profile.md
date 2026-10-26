@@ -1,6 +1,6 @@
 # 0001 — כיוון ויזואלי לפרופיל GitHub: "ליסטינג של אסמבלר"
 
-- **Status:** proposed
+- **Status:** accepted
 - **Date:** 2026-10-26
 - **Stage:** 1 — עמוד קיים ופשוט, קהל: מגייסים ומפתחים (inferred, high)
 - **Mode:** quick — seated: chair, creative director, UX researcher, product designer, inclusive-design lead, design engineer, devil's advocate
@@ -47,4 +47,4 @@
 - האם להוסיף תמונת פרופיל לעמוד עצמו? cheapest way: להעלות תמונה בהגדרות GitHub (מוצגת ממילא ליד ה־README)
 
 ## User response
-<pending>
+Accepted at merge by the owner ("דחוף את השינויים"), 2026-10-26.
